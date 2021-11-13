@@ -1,16 +1,6 @@
-amosrothberg, shahar.drath
-===============================================================================
-amos rothberg, ID 314960352, amos.rothberg@mail.huji.ac.il
-shahar drath, ID 316132851, shahar.drath@mail.huji.ac.il
-===============================================================================
-
-							Project 12
-                           -----------
+Project 12
 
 
-Submitted Files
----------------
-README - This file.
 Memory.jack - memory class for OS
 Array.jack - array class for OS
 Math.jack - math class for OS
