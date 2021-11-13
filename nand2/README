@@ -1,0 +1,7 @@
+Project 2 - build a set of chips. culminating in the construction of the ALU chip of the Hack cmputer
+
+HalfAdder - Computes the sum of two bits
+FullAdder - Computes the sum of three bits
+Add16 - Adds two 16-bit values
+Inc16 - 16-bit incrementer: out = in + 1 (arithmetic addition)
+ALU - Arithmetic-Logic unit

@@ -1,0 +1,4 @@
+project 4 - low level assembly programs
+
+Fill - Runs an infinite loop that listens to the keyboard input. When a key is pressed (any key), the program blackens the screen.
+Mult - Multiplies R0 and R1 and stores the result in R2.

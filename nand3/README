@@ -1,4 +1,4 @@
-project 3
+project 3 - build a RAM unit
 
 Bit - 1 bit of memory. If load: in is loaded into the memory.
 Register - 8 bit of memory. If load: in is loaded into the memory.

@@ -1,0 +1,3 @@
+project 5 - assembler
+
+assembler.py - Transletes code written in the symbolic Hack assembly into code written in binary machine language 

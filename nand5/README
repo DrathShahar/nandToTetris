@@ -1,4 +1,4 @@
-Project 5
+Project 5 - build the complete Hack Hardware
 
 CPU.hdl - central processing unit - magic, where all the computing happens
 Memory.hdl - the memory unit. part 1 is data, part 2 is the screen, part 3 is the keyboard
