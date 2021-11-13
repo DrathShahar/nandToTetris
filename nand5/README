@@ -1,0 +1,16 @@
+amosrothberg, shahar.drath
+===============================================================================
+amos rothberg, ID 314960352, amos.rothberg@mail.huji.ac.il
+shahar drath, ID 316132851, shahar.drath@mail.huji.ac.il
+===============================================================================
+
+							Project 5
+                           -----------
+
+
+Submitted Files
+---------------
+README - This file.
+CPU.hdl - central processing unit - magic, where all the computing happens
+Memory.hdl - the memory unit. part 1 is data, part 2 is the screen, part 3 is the keyboard
+Computer.hdl - the chip that connects everything together

@@ -1,0 +1,13 @@
+shahar.drath
+shahar drath, shahar.drath@mail.huji.ac.il, 316132851
+
+project 3
+
+Bit - 1 bit of memory. If load: in is loaded into the memory.
+Register - 8 bit of memory. If load: in is loaded into the memory.
+RAM8 - 8 byte of memory. If load: in is loaded into the memory location specified by address
+RAM64 - 64 byte of memory. If load: in is loaded into the memory location specified by address
+RAM512 - 512 byte of memory. If load: in is loaded into the memory location specified by address
+RAM4K - 4K byte of memory. If load: in is loaded into the memory location specified by address
+RAM16K - 16K byte of memory. If load: in is loaded into the memory location specified by address
+PC - counter. if reset: out[t+1] = 0, else if load: out[t+1] = in, else if in: out[t+1] = out[t]+1,else out[t+1] = out[t]

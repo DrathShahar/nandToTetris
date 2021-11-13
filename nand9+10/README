@@ -1,0 +1,24 @@
+amosrothberg, shahar.drath
+===============================================================================
+amos rothberg, ID 314960352, amos.rothberg@mail.huji.ac.il
+shahar drath, ID 316132851, shahar.drath@mail.huji.ac.il
+===============================================================================
+
+							Project 11
+                           -----------
+
+
+Submitted Files
+---------------
+README - This file.
+JackAnalyzer.py - runs the program
+JackTokenizer.py - removes all comments and white space from input and breaks
+    it into JACK-language tokens.
+CompilationEngine.py - gets input from tokenizer and emits its parsed structure
+    into a output.
+SymbolTable.py - associates the identifier names found in the program with
+    identifier properties needed for compilation
+VMWriter.py - emits VM commands into a file
+JackAnalyzer - for the make file
+MakeFile - a make file
+
