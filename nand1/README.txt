@@ -1,6 +1,3 @@
-shahar.drath
-shahar drath, shahar.drath@mail.huji.ac.il, 316132851
-
 project 1
 
 Not - if in=0 then out=1 else out=0
