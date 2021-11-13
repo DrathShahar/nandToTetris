@@ -1,1 +1,2 @@
-# nandToTetris
+# Nand To Tetris
+Shahar Drath
