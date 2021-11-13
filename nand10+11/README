@@ -1,14 +1,12 @@
 
-Project 11
+Project 10 + 11 - build the compiler front-end - trnslates from the high-level language to VM language
 
-JackAnalyzer.py - runs the program
-JackTokenizer.py - removes all comments and white space from input and breaks
+JackAnalyzer.py - Runs the program
+JackTokenizer.py - Removes all comments and white space from input and breaks
     it into JACK-language tokens.
-CompilationEngine.py - gets input from tokenizer and emits its parsed structure
+CompilationEngine.py - Gets input from tokenizer and emits its parsed structure
     into a output.
-SymbolTable.py - associates the identifier names found in the program with
-    identifier properties needed for compilation
-VMWriter.py - emits VM commands into a file
-JackAnalyzer - for the make file
-MakeFile - a make file
+SymbolTable.py - Associates the identifier names found in the program with
+    identifier Properties needed for compilation
+VMWriter.py - Emits VM commands into a file
 

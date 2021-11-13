@@ -1,9 +1,5 @@
-Project 8
+Project 7 + 8 - build a VM translator
 
-
-Main.py - constructs a Parser and a CodeWriter and creates output file
+Main.py - Constructs a Parser and a CodeWriter and creates output file
 Parser.py - Handles the parsing of a single vm file
 CodeWriter.py - Translates VM commands into Hack assembly code
-VMtranslater - for the make file
-MakeFile - a make file
-
